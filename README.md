@@ -6,10 +6,11 @@ Topic: Football Club transfer market management system
 
 Language: Python
 
-Files: pdf,ppt - project description
-       transfermarket.db - actual database working on
-       transfermarket.py - python ORM
-       transfermarket.sql - sql file with queries used when desiging the database
+Files: pdf,ppt - project description;
+       transfermarket.png -ER diagram;
+       transfermarket.db - actual database working on;
+       transfermarket.py - python ORM;
+       transfermarket.sql - sql file with queries used when desiging the database;
 
 Program Format: Command line program
 
