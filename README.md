@@ -6,7 +6,7 @@ Topic: Football Club transfer market management system
 
 Language: Python
 
-Format: Comman line program
+Format: Command line program
 
 Instruction: Python transfermarket.py [--help] [--version] [--search | --list | --schedule | --count | --register] [name] [plid] [plpos] [sid]
 
